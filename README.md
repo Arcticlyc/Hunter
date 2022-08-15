@@ -6,3 +6,8 @@
 3. 像素混淆
 4. 兼容PicEncrypt: 行模式
 5. 兼容PicEncrypt: 行+列模式
+
+依赖：
+numpy
+numba
+pillow
