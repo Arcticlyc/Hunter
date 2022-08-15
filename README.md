@@ -8,6 +8,6 @@
 5. 兼容PicEncrypt: 行+列模式
 
 依赖：
-numpy
-numba
-pillow
+  numpy
+  numba
+  pillow
